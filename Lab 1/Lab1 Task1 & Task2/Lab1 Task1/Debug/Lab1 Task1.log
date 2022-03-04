@@ -1,0 +1,8 @@
+﻿  Lab1 Task1.cpp
+G:\Projects & Lab\CS112\Lab 1\Lab1 Task1\Lab1 Task1\Lab1 Task1.cpp(41,35): warning C4305: '+=': truncation from 'double' to 'float'
+G:\Projects & Lab\CS112\Lab 1\Lab1 Task1\Lab1 Task1\Lab1 Task1.cpp(43,35): warning C4305: '+=': truncation from 'double' to 'float'
+G:\Projects & Lab\CS112\Lab 1\Lab1 Task1\Lab1 Task1\Lab1 Task1.cpp(47,35): warning C4305: '+=': truncation from 'double' to 'float'
+G:\Projects & Lab\CS112\Lab 1\Lab1 Task1\Lab1 Task1\Lab1 Task1.cpp(49,35): warning C4305: '+=': truncation from 'double' to 'float'
+G:\Projects & Lab\CS112\Lab 1\Lab1 Task1\Lab1 Task1\Lab1 Task1.cpp(53,35): warning C4305: '+=': truncation from 'double' to 'float'
+G:\Projects & Lab\CS112\Lab 1\Lab1 Task1\Lab1 Task1\Lab1 Task1.cpp(55,35): warning C4305: '+=': truncation from 'double' to 'float'
+  Lab1 Task1.vcxproj -> G:\Projects & Lab\CS112\Lab 1\Lab1 Task1\Debug\Lab1 Task1.exe
